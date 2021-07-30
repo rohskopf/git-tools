@@ -2,7 +2,7 @@ These are common git commands I use. Putting them here for my reference and othe
 
 # Keeping usernames updated.
 
-Username is rohskopf and email is drew.rohskopf@gmail.com. To verify, do:
+Username is rohskopf and email is drew dot rohskopf at gmail dot com. Sometimes when using git on clusters, this will change to my cluster login settings, so I won't be using my actual git account. To verify, do:
 
     git config --list
 
