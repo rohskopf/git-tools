@@ -8,8 +8,8 @@ Username is rohskopf and email is drew dot rohskopf at gmail dot com. Sometimes 
 
 If these settings need to be changed, do:
 
-    git config [--global] user.name "Full Name"
-    git config [--global] user.email "email@address.com"
+    git config --global user.name "Full Name"
+    git config --global user.email "email@address.com"
 
 # Working with my own repos.
 
