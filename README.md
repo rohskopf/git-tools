@@ -99,3 +99,7 @@ So navigate to github site and:
     git checkout master
     git reset --hard upstream/master  
     git push origin master --force
+
+# Squasing commits
+
+This explains the most useful commands: https://gist.github.com/patik/b8a9dc5cd356f9f6f980
