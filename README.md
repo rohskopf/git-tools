@@ -100,6 +100,12 @@ So navigate to github site and:
     git reset --hard upstream/master  
     git push origin master --force
 
-# Squasing commits
+# Squashing commits
 
 This explains the most useful commands: https://gist.github.com/patik/b8a9dc5cd356f9f6f980
+
+It's best to do this BEFORE pushing to a remote repo, otherwise we'll have to do a force push which may be scary...
+
+# Cleaning up junk
+
+`git clean -f`
